@@ -7,6 +7,7 @@ import org.json.*;
 import javax.imageio.ImageIO;
 
 public class WeatherAppModern extends JFrame {
+
     private JTextField cityField;
     private JButton getButton;
     private JLabel todayLabel, tomorrowLabel, todayIcon, tomorrowIcon;
