@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "WeatherAppGUI",
+            "request": "launch",
+            "mainClass": "WeatherAppGUI",
+            "classPaths": [
+                "lib/json-20230227.jar",
+                "out"
+            ]
+        }
+    ]
+}
+
